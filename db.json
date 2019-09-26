@@ -1,18 +1,18 @@
 {
-"name":"Ashwani,
-"age":24,
-"address":{
-"street":"testStreet",
-"pin":110098
-},
-phone:[
-{
-"number":1234,
-"numberType":"Home"
-},
-{
-"number":1246,
-"numberType":"Office"
-}
-]
+    "name": "Ashwani",
+    "age": 24,
+    "address": {
+        "street": "testStreet",
+        "pin": 110098
+    },
+    "phone": [
+        {
+            "number": 1234,
+            "numberType": "Home"
+        },
+        {
+            "number": 1246,
+            "numberType": "Office"
+        }
+    ]
 }
